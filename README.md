@@ -13,13 +13,9 @@ A React Native mobile app for translating between English and three Nigerian lan
 
 ## Screenshots
 
-<!-- Add your screenshots here. Suggested: home (dark), home (light), recording, translation result -->
-
-| Home (Dark)      | Recording        | Translation      | Home (Light)     |
-| ---------------- | ---------------- | ---------------- | ---------------- |
-| _add screenshot_ | _add screenshot_ | _add screenshot_ | _add screenshot_ |
-
-> To add screenshots: take them on your phone, drop the images in an `assets/screenshots/` folder, and replace the placeholders above with `![Home](assets/screenshots/home-dark.png)`.
+| Home (Dark)                                    | Recording                                      | Translation                                        | Home (Light)                                     |
+| ---------------------------------------------- | ---------------------------------------------- | -------------------------------------------------- | ------------------------------------------------ |
+| ![Home Dark](assets/screenshots/home-dark.jpg) | ![Recording](assets/screenshots/recording.jpg) | ![Translation](assets/screenshots/translation.jpg) | ![Home Light](assets/screenshots/home-light.jpg) |
 
 ## Features
 
