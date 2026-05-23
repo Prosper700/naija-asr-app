@@ -4,6 +4,13 @@ A React Native mobile app for translating between English and three Nigerian lan
 
 > **Backend:** This app is powered by the [Naija ASR & Translation API](https://github.com/Prosper700/naija-asr-backend). See that repo for the FastAPI backend and model details.
 
+## Download
+
+📱 **[Download APK (Android)](https://github.com/Prosper700/naija-asr-app/releases/download/v1.0.0/application-dbf6abd7-b16d-4cd9-9b2c-d841acf6210b.apk)** — v1.0.0 Beta
+
+> Android only for now. iOS is not yet available — see [Limitations](#limitations--future-work).
+> If install is blocked, allow "unknown sources" for your browser/file manager, then tap the APK again.
+
 ## Screenshots
 
 <!-- Add your screenshots here. Suggested: home (dark), home (light), recording, translation result -->
